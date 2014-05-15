@@ -6,6 +6,8 @@ HD Silde Template for Sketch 3.
 
 Free for use.
 
+DEMO: [speakerdeck](https://speakerdeck.com/gaspanik/sketch-3-basic-at-kkmsz)
+
 ## PDF Page Order
 
 1. Page list order (From top to bottom)
